@@ -16,6 +16,6 @@
 <div class="container">
   <h1 class="display text-center">Not Found - 404</h1>
 </div>
-
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus asperiores blanditiis delectus, dolorem ducimus eligendi eos esse excepturi fugiat inventore laboriosam minima nostrum obcaecati provident repellat vel voluptas voluptatem voluptatum.</p>
 </body>
 </html>
